@@ -37,7 +37,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Sharing your solution
 
-- You can see my solution here 
+- You can see my solution here https://maikocode.github.io/Coding-bootcamp-testimonials-slider/
 
 ## Got feedback for us?
 
